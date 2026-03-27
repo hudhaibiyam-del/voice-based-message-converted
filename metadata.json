@@ -1,0 +1,5 @@
+{
+  "name": "Voice Message Converter",
+  "description": "A powerful utility to record or upload voice messages and convert them into clear, accurate text using Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
